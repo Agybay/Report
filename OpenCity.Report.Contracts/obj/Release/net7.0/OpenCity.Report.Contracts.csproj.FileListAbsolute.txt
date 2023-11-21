@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\OpenCity.Report\OpenCity.Report.Contracts\bin\Release\net7.0\OpenCity.Report.Contracts.deps.json
+C:\Users\User\source\repos\OpenCity.Report\OpenCity.Report.Contracts\bin\Release\net7.0\OpenCity.Report.Contracts.dll
+C:\Users\User\source\repos\OpenCity.Report\OpenCity.Report.Contracts\bin\Release\net7.0\OpenCity.Report.Contracts.pdb
+C:\Users\User\source\repos\OpenCity.Report\OpenCity.Report.Contracts\obj\Release\net7.0\OpenCity.Report.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\OpenCity.Report\OpenCity.Report.Contracts\obj\Release\net7.0\OpenCity.Report.Contracts.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OpenCity.Report\OpenCity.Report.Contracts\obj\Release\net7.0\OpenCity.Report.Contracts.AssemblyInfo.cs
+C:\Users\User\source\repos\OpenCity.Report\OpenCity.Report.Contracts\obj\Release\net7.0\OpenCity.Report.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OpenCity.Report\OpenCity.Report.Contracts\obj\Release\net7.0\OpenCity.Report.Contracts.dll
+C:\Users\User\source\repos\OpenCity.Report\OpenCity.Report.Contracts\obj\Release\net7.0\refint\OpenCity.Report.Contracts.dll
+C:\Users\User\source\repos\OpenCity.Report\OpenCity.Report.Contracts\obj\Release\net7.0\OpenCity.Report.Contracts.pdb
+C:\Users\User\source\repos\OpenCity.Report\OpenCity.Report.Contracts\obj\Release\net7.0\ref\OpenCity.Report.Contracts.dll

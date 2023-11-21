@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "OpenCity.Report.Contracts/1.0.4": {
+        "runtime": {
+          "OpenCity.Report.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OpenCity.Report.Contracts/1.0.4": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

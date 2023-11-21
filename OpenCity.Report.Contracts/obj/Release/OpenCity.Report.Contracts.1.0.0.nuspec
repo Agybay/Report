@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>OpenCity.Report.Contracts</id>
+    <version>1.0.0</version>
+    <authors>OpenCity.Report.Contracts</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\User\source\repos\OpenCity.Report\OpenCity.Report.Contracts\bin\Release\net7.0\OpenCity.Report.Contracts.dll" target="lib\net7.0\OpenCity.Report.Contracts.dll" />
+  </files>
+</package>

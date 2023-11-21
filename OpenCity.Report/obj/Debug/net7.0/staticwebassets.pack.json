@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\source\\Test\\Report\\OpenCity.Report\\wwwroot\\CoverLetterLegalSigned.docx",
+      "PackagePath": "staticwebassets\\CoverLetterLegalSigned.docx"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\Test\\Report\\OpenCity.Report\\wwwroot\\CoverLetterPhysicalSigned.docx",
+      "PackagePath": "staticwebassets\\CoverLetterPhysicalSigned.docx"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.OpenCity.Report.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.OpenCity.Report.props",
+      "PackagePath": "build\\OpenCity.Report.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.OpenCity.Report.props",
+      "PackagePath": "buildMultiTargeting\\OpenCity.Report.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.OpenCity.Report.props",
+      "PackagePath": "buildTransitive\\OpenCity.Report.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

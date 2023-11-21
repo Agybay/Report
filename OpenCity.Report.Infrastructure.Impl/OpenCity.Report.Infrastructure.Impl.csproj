@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Templates\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CSharpFunctionalExtensions" Version="2.40.3" />
+    <PackageReference Include="DevExpress.AspNetCore.Reporting" Version="23.1.5" />
+    <PackageReference Include="DevExpress.AspNetCore.RichEdit" Version="23.1.5" />
+    <PackageReference Include="DevExpress.Drawing.Skia" Version="23.1.5" />
+    <PackageReference Include="MassTransit" Version="8.1.1" />
+    <PackageReference Include="Quartz" Version="3.7.0" />
+    <PackageReference Include="SkiaSharp" Version="2.88.6" />
+    <PackageReference Include="SkiaSharp.NativeAssets.Linux" Version="2.88.6" />
+    <PackageReference Include="System.Drawing.Common" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OpenCity.Domain\OpenCity.Domain.csproj" />
+    <ProjectReference Include="..\OpenCity.Report.Application\OpenCity.Report.Application.csproj" />
+  </ItemGroup>
+
+</Project>

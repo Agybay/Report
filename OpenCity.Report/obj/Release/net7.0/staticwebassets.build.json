@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "NH/GiUrxtOtbYe9wNOreLR+qvOYK8EIG3VpT/rLGJoI=",
+  "Source": "OpenCity.Report",
+  "BasePath": "_content/OpenCity.Report",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OpenCity.Report\\wwwroot",
+      "Source": "OpenCity.Report",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\OpenCity.Report\\OpenCity.Report\\wwwroot\\",
+      "BasePath": "_content/OpenCity.Report",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\OpenCity.Report\\OpenCity.Report\\wwwroot\\CoverLetterLegalSigned.docx",
+      "SourceId": "OpenCity.Report",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\OpenCity.Report\\OpenCity.Report\\wwwroot\\",
+      "BasePath": "_content/OpenCity.Report",
+      "RelativePath": "CoverLetterLegalSigned.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Always",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\CoverLetterLegalSigned.docx"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\OpenCity.Report\\OpenCity.Report\\wwwroot\\CoverLetterPhysicalSigned.docx",
+      "SourceId": "OpenCity.Report",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\OpenCity.Report\\OpenCity.Report\\wwwroot\\",
+      "BasePath": "_content/OpenCity.Report",
+      "RelativePath": "CoverLetterPhysicalSigned.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Always",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\CoverLetterPhysicalSigned.docx"
+    }
+  ]
+}

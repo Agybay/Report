@@ -1,0 +1,357 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\User\\source\\Test\\Report\\OpenCity.Report.Infrastructure.Impl\\OpenCity.Report.Infrastructure.Impl.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\User\\source\\Test\\Report\\OpenCity.Domain\\OpenCity.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\source\\Test\\Report\\OpenCity.Domain\\OpenCity.Domain.csproj",
+        "projectName": "OpenCity.Domain",
+        "projectPath": "C:\\Users\\User\\source\\Test\\Report\\OpenCity.Domain\\OpenCity.Domain.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\source\\Test\\Report\\OpenCity.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\User\\source\\Test\\Report\\OpenCity.Report.Contracts\\OpenCity.Report.Contracts.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\Test\\Report\\OpenCity.Report.Contracts\\OpenCity.Report.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[7.0.6, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\User\\source\\Test\\Report\\OpenCity.Report.Application\\OpenCity.Report.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\source\\Test\\Report\\OpenCity.Report.Application\\OpenCity.Report.Application.csproj",
+        "projectName": "OpenCity.Report.Application",
+        "projectPath": "C:\\Users\\User\\source\\Test\\Report\\OpenCity.Report.Application\\OpenCity.Report.Application.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\source\\Test\\Report\\OpenCity.Report.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\User\\source\\Test\\Report\\OpenCity.Report.Contracts\\OpenCity.Report.Contracts.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\Test\\Report\\OpenCity.Report.Contracts\\OpenCity.Report.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.20.0, )"
+            },
+            "Net.Codecrete.QrCodeGenerator": {
+              "target": "Package",
+              "version": "[2.0.4, )"
+            },
+            "Refit": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "SkiaSharp": {
+              "target": "Package",
+              "version": "[2.88.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\User\\source\\Test\\Report\\OpenCity.Report.Contracts\\OpenCity.Report.Contracts.csproj": {
+      "version": "1.0.4",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\source\\Test\\Report\\OpenCity.Report.Contracts\\OpenCity.Report.Contracts.csproj",
+        "projectName": "OpenCity.Report.Contracts",
+        "projectPath": "C:\\Users\\User\\source\\Test\\Report\\OpenCity.Report.Contracts\\OpenCity.Report.Contracts.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\source\\Test\\Report\\OpenCity.Report.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\User\\source\\Test\\Report\\OpenCity.Report.Infrastructure.Impl\\OpenCity.Report.Infrastructure.Impl.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\source\\Test\\Report\\OpenCity.Report.Infrastructure.Impl\\OpenCity.Report.Infrastructure.Impl.csproj",
+        "projectName": "OpenCity.Report.Infrastructure.Impl",
+        "projectPath": "C:\\Users\\User\\source\\Test\\Report\\OpenCity.Report.Infrastructure.Impl\\OpenCity.Report.Infrastructure.Impl.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\source\\Test\\Report\\OpenCity.Report.Infrastructure.Impl\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\User\\source\\Test\\Report\\OpenCity.Domain\\OpenCity.Domain.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\Test\\Report\\OpenCity.Domain\\OpenCity.Domain.csproj"
+              },
+              "C:\\Users\\User\\source\\Test\\Report\\OpenCity.Report.Application\\OpenCity.Report.Application.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\Test\\Report\\OpenCity.Report.Application\\OpenCity.Report.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "CSharpFunctionalExtensions": {
+              "target": "Package",
+              "version": "[2.40.3, )"
+            },
+            "DevExpress.AspNetCore.Reporting": {
+              "target": "Package",
+              "version": "[23.1.5, )"
+            },
+            "DevExpress.AspNetCore.RichEdit": {
+              "target": "Package",
+              "version": "[23.1.5, )"
+            },
+            "DevExpress.Drawing.Skia": {
+              "target": "Package",
+              "version": "[23.1.5, )"
+            },
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Quartz": {
+              "target": "Package",
+              "version": "[3.7.0, )"
+            },
+            "SkiaSharp": {
+              "target": "Package",
+              "version": "[2.88.6, )"
+            },
+            "SkiaSharp.NativeAssets.Linux": {
+              "target": "Package",
+              "version": "[2.88.6, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

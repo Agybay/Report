@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	 <Description> Модели межсервисного взаимодействия сервиса отчетов</Description>
+    <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
+    <AssemblyVersion>1.0.3</AssemblyVersion>
+    <Version>1.0.4</Version>
+  </PropertyGroup>
+
+</Project>

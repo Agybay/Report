@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\OpenCity.Report\OpenCity.Domain\bin\Release\net7.0\OpenCity.Domain.deps.json
+C:\Users\User\source\repos\OpenCity.Report\OpenCity.Domain\bin\Release\net7.0\OpenCity.Domain.runtimeconfig.json
+C:\Users\User\source\repos\OpenCity.Report\OpenCity.Domain\bin\Release\net7.0\OpenCity.Domain.dll
+C:\Users\User\source\repos\OpenCity.Report\OpenCity.Domain\bin\Release\net7.0\OpenCity.Domain.pdb
+C:\Users\User\source\repos\OpenCity.Report\OpenCity.Domain\obj\Release\net7.0\OpenCity.Domain.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\OpenCity.Report\OpenCity.Domain\obj\Release\net7.0\OpenCity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\OpenCity.Report\OpenCity.Domain\obj\Release\net7.0\OpenCity.Domain.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OpenCity.Report\OpenCity.Domain\obj\Release\net7.0\OpenCity.Domain.AssemblyInfo.cs
+C:\Users\User\source\repos\OpenCity.Report\OpenCity.Domain\obj\Release\net7.0\OpenCity.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OpenCity.Report\OpenCity.Domain\obj\Release\net7.0\OpenCity.Domain.dll
+C:\Users\User\source\repos\OpenCity.Report\OpenCity.Domain\obj\Release\net7.0\refint\OpenCity.Domain.dll
+C:\Users\User\source\repos\OpenCity.Report\OpenCity.Domain\obj\Release\net7.0\OpenCity.Domain.pdb
+C:\Users\User\source\repos\OpenCity.Report\OpenCity.Domain\obj\Release\net7.0\OpenCity.Domain.genruntimeconfig.cache
+C:\Users\User\source\repos\OpenCity.Report\OpenCity.Domain\obj\Release\net7.0\ref\OpenCity.Domain.dll
+C:\Users\User\source\repos\OpenCity.Report\OpenCity.Domain\bin\Release\net7.0\OpenCity.Report.Contracts.dll
+C:\Users\User\source\repos\OpenCity.Report\OpenCity.Domain\bin\Release\net7.0\OpenCity.Report.Contracts.pdb
+C:\Users\User\source\repos\OpenCity.Report\OpenCity.Domain\obj\Release\net7.0\OpenCity.Domain.csproj.CopyComplete
